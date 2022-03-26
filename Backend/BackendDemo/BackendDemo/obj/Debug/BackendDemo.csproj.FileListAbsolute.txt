@@ -99,5 +99,5 @@ C:\Users\user\Desktop\Skill-Demo-in-2022\Backend\BackendDemo\BackendDemo\obj\Deb
 C:\Users\user\Desktop\Skill-Demo-in-2022\Backend\BackendDemo\BackendDemo\obj\Debug\BackendDemo.csproj.CopyComplete
 C:\Users\user\Desktop\Skill-Demo-in-2022\Backend\BackendDemo\BackendDemo\obj\Debug\BackendDemo.dll
 C:\Users\user\Desktop\Skill-Demo-in-2022\Backend\BackendDemo\BackendDemo\obj\Debug\BackendDemo.pdb
-C:\Users\user\Desktop\Skill-Demo-in-2022\Backend\BackendDemo\BackendDemo\obj\Debug\BackendDemo.Migrations.BookMarkSerno.resources
+C:\Users\user\Desktop\Skill-Demo-in-2022\Backend\BackendDemo\BackendDemo\obj\Debug\BackendDemo.Migrations.Initial.resources
 C:\Users\user\Desktop\Skill-Demo-in-2022\Backend\BackendDemo\BackendDemo\obj\Debug\BackendDemo.csproj.GenerateResource.cache

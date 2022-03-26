@@ -8,10 +8,7 @@ using System.Web;
 
 namespace BackendDemo.Models
 {
-    public class BookmarkContext : DbContext
-    {
-        public DbSet<Bookmark> Bookmarks { get; set; }
-    }
+ 
     [Table("Bookmark")]
     public class Bookmark
     {

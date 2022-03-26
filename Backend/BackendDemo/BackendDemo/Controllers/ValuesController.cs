@@ -55,7 +55,7 @@ namespace BackendDemo.Controllers
 
 
         // DELETE 給serno刪掉資料
-        public void Delete(string serno)
+        public string Delete(string serno)
         {
             using (var db = new BookmarkContext())
             {
@@ -64,6 +64,8 @@ namespace BackendDemo.Controllers
                 db.SaveChanges();
 
             }
+
+            return "刪除完成";
         }
     }
 }

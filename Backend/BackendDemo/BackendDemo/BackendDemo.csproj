@@ -174,12 +174,13 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202203260937419_BookMarkSerno.cs" />
-    <Compile Include="Migrations\202203260937419_BookMarkSerno.designer.cs">
-      <DependentUpon>202203260937419_BookMarkSerno.cs</DependentUpon>
+    <Compile Include="Migrations\202203261237496_Initial.cs" />
+    <Compile Include="Migrations\202203261237496_Initial.designer.cs">
+      <DependentUpon>202203261237496_Initial.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Bookmark.cs" />
+    <Compile Include="Models\BookmarkContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -267,8 +268,8 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202203260937419_BookMarkSerno.resx">
-      <DependentUpon>202203260937419_BookMarkSerno.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202203261237496_Initial.resx">
+      <DependentUpon>202203261237496_Initial.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
