@@ -4,7 +4,7 @@ A project which prove that I still have some programming skills in 2022
 ##  這是什麼  
 
 前端是一個靜態網頁   
-會架在[licalica.com](licalica.com)  
+會架在[licalica.com](http:/licalica.com)  
 
 是用AWS的route53做DNS服務而內容存在s3 bucket 
 
